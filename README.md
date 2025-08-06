@@ -1,6 +1,6 @@
 # Temperature Converter PWA 🌡️
 
-A simple Progressive Web App for converting temperatures between Celsius, Fahrenheit, and Kelvin.
+A simple Progressive Web App for converting temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
 
 This sample is based on the Microsoft Edge **“Get started with PWAs”** tutorial from [Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps/how-to/).
 
